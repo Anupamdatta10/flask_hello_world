@@ -1,0 +1,39 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.env
+flask_app/
+# Environment variables file (if using dotenv or similar)
+.env
+
+# Compiled Python files
+*.pyc
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Debugging files
+*.bak
+*.swp
+*.swo
+
+# Compiled files
+*.pyd
+*.pyo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Database files (if not using migrations)
+*.db
+*.sqlite
+*.sqlite3
